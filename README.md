@@ -20,11 +20,11 @@ Note that the `dlib` library requires you to install the C++ library `cmake` on 
 ## Usage
 
 1. Clone this repository to your local machine.
-2. Navigate to the directory containing the `eye_blink_detection.py` file.
+2. Navigate to the directory containing the `eyeBlinkCount.py` file.
 3. Run the following command in your terminal to start the script:
 
 ```
-python eye_blink_detection.py
+python eyeBlinkCount.py
 ```
 
 The script will start capturing video from the default camera connected to your system. The number of blinks detected will be displayed in the video feed.
